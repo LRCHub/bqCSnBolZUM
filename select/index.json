@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "横顔",
+  "base_artist": "Foi",
+  "createdAt": "2026-02-08T04:18:40.612213Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "横顔",
+      "artist": "Taeko Onuki",
+      "has_synced": true,
+      "path": "select/01_横顔_Taeko_Onuki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "横顔",
+      "artist": "Taeko Ohnuki",
+      "has_synced": true,
+      "path": "select/02_横顔_Taeko_Ohnuki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "横顔 -Profile-",
+      "artist": "Junko Ohashi",
+      "has_synced": true,
+      "path": "select/03_横顔_-Profile-_Junko_Ohashi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "横顔-Profile-",
+      "artist": "Junko Ohashi",
+      "has_synced": true,
+      "path": "select/04_横顔-Profile-_Junko_Ohashi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "横顔",
+      "artist": "鶴",
+      "has_synced": false,
+      "path": "select/05_横顔_鶴.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "横顔",
+      "artist": "ROUND TABLE Feat. Nino",
+      "has_synced": false,
+      "path": "select/06_横顔_ROUND_TABLE_Feat._Nino.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "横顔",
+      "artist": "牧野由依",
+      "has_synced": false,
+      "path": "select/07_横顔_牧野由依.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "横顔",
+      "artist": "ROUND TABLE featuring Nino",
+      "has_synced": false,
+      "path": "select/08_横顔_ROUND_TABLE_featuring_Nino.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "横顔",
+      "artist": "平井堅",
+      "has_synced": true,
+      "path": "select/09_横顔_平井堅.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "横顔",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/10_横顔_Uru.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "横顔 ~わたしの知らない桜~",
+      "artist": "藤田麻衣子",
+      "has_synced": true,
+      "path": "select/11_横顔_~わたしの知らない桜~_藤田麻衣子.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "横顔",
+      "artist": "7!!",
+      "has_synced": true,
+      "path": "select/12_横顔_7!!.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "横顔",
+      "artist": "酒井法子 (Noriko Sakai)",
+      "has_synced": true,
+      "path": "select/13_横顔_酒井法子_(Noriko_Sakai).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "横顔",
+      "artist": "酒井法子",
+      "has_synced": false,
+      "path": "select/14_横顔_酒井法子.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "横顔 (karaoke)",
+      "artist": "Noriko Sakai",
+      "has_synced": true,
+      "path": "select/15_横顔_(karaoke)_Noriko_Sakai.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "横顔",
+      "artist": "Noriko Sakai",
+      "has_synced": true,
+      "path": "select/16_横顔_Noriko_Sakai.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "横顔-acoustic version-",
+      "artist": "Yui Makino",
+      "has_synced": false,
+      "path": "select/17_横顔-acoustic_version-_Yui_Makino.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "横顔",
+      "artist": "Foi",
+      "has_synced": false,
+      "path": "select/pl_01_横顔_Foi.txt"
+    }
+  ]
+}
